@@ -1,0 +1,18 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define MAX_CAPACITY 1001
+
+#define PUSH_ARRAY_QUEUE 1
+#define POP_ARRAY_QUEUE 2
+#define PRINT_ARRAY_QUEUE 3
+#define SIMULATE_ARRAY_QUEUE 4
+#define PUSH_LIST_QUEUE 5
+#define POP_LIST_QUEUE 6
+#define PRINT_LIST_QUEUE 7
+#define SIMULATE_LIST_QUEUE 8
+#define START 1
+#define END 0
+#define OK 0
+
+#endif

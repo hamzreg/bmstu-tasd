@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "list_queue_t.h": "c",
+        "time_function.h": "c"
+    }
+}

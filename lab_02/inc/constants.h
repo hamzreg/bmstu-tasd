@@ -1,0 +1,28 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define OK 0
+#define COUNT_SUBSCRIBER 1000
+#define MAX_LEN_FILENAME 8
+
+#define START -1
+#define END 0
+#define FILE_INPUT 1
+#define ADD_SUBSCRIBER 2
+#define DELETE_SUBSCRIBER 3
+#define HAPPY_BITHDAY 4
+#define SORT_TABLE_BUBBLE 5
+#define SORT_TABLE_QSORT 6
+#define SORT_KEY_BUBBLE 7
+#define SORT_KEY_QSORT 8
+#define PRINT_TABLE 9
+#define PRINT_TABLE_BY_KEY 10
+#define PRINT_KEY 11
+#define PRINT_SORTS_RESULT 12
+
+#define MAX_LEN_RECORD 256
+
+#define KEY 0
+#define NOT_KEY 1
+
+#endif
